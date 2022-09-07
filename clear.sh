@@ -1,0 +1,2 @@
+cd bootloader
+rm *.bin
